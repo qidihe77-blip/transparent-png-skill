@@ -1,4 +1,4 @@
-# Transparent PNG Skill
+# Transparent Asset Pipeline 
 
 A reusable Codex Skill for converting or editing images into true transparent-background RGBA PNG assets.
 
